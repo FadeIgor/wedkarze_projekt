@@ -9,11 +9,14 @@ header{
 header img {
     width: 200px;
     height: 200px;
+    padding: 0;
+    margin: 0;
 }
 a { 
     margin: 20px;
     padding: 10px;
 
 }
+
 
 
